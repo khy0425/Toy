@@ -1,7 +1,6 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
-
 conversation = [
     "Hello",
     "Hi there!",
